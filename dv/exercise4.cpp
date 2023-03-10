@@ -1,4 +1,6 @@
 #include <VExercise4.h>
+#include <cstdint>
+#include <stdlib.h>
 
 int main() {
   VExercise4 model;
