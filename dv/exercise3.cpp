@@ -1,4 +1,6 @@
 #include <VExercise3.h>
+#include <cstdint>
+#include <stdlib.h>
 
 // calculate output of Mystery1
 uint8_t mystery1(uint8_t a, uint8_t b, uint8_t c) {
