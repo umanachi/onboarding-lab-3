@@ -1,4 +1,6 @@
 #include <VExercise2.h>
+#include <cstdint>
+#include <stdlib.h>
 
 // calculate expected shifted output
 uint16_t lfsr(uint16_t curr) {
